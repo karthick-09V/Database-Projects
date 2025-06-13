@@ -1,4 +1,4 @@
-"company";"location";"industry";"total_laid_off";"percentage_laid_off";"date";"stage";"country";"funds_raised_millions"
+"company";"location";"industry";"total_laid_off";"percentage_laid_off";"date";"stage";"country";"funds_raised_millions",
 "Included Health";"SF Bay Area";"Healthcare";0;"0.06";"2022-07-25";"Series E";"United States";272
 "&Open";"Dublin";"Marketing";9;"0.09";"2022-11-17";"Series A";"Ireland";35
 "#Paid";"Toronto";"Marketing";19;"0.17";"2023-01-27";"Series B";"Canada";21
