@@ -3,7 +3,7 @@
 -- 1. Remove Duplicates
 -- 2. Standadize the data
 -- 3. Null or Blank values
--- 4. Remove any unnecessary columns
+-- 4. Remove unnecessary columns
 
 SELECT *
 FROM layoffs; 
